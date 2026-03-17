@@ -11,4 +11,4 @@
 ![Unity](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity)
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vmagione&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vmagione&layout=compact&hide=shaderlab,hlsl,css)
